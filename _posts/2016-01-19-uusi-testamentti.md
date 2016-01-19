@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Kertomus Jeesuksesta ja ensimmäisen vuosisadan kristityistä
-datePublished: '2016-01-19T20:59:47.471Z'
-dateModified: '2016-01-19T20:59:44.521Z'
-title: Uusi testamentti
+datePublished: '2016-01-19T21:30:23.889Z'
+dateModified: '2016-01-19T21:30:16.318Z'
+title: "Maailmankuva II:\_Uusi testamentti"
 author: []
 sourcePath: _posts/2016-01-19-uusi-testamentti.md
 published: true
@@ -22,7 +22,8 @@ url: uusi-testamentti/index.html
 _type: Article
 
 ---
-# Uusi testamentti
+# Maailmankuva II: Uusi testamentti
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/14e01c7f-24f5-46c2-a8d9-66a49401403b.jpg)
 
 _Kertomus Jeesuksesta ja ensimmäisen vuosisadan kristityistä haastaa maailmankuvasi radikaalilla tavalla._
 
