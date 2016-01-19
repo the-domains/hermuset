@@ -2,6 +2,7 @@ name: Hermuset
 favicon: null
 layout_spectrum: 0.65009
 typography_spectrum: 0.68795
+title: Blogi
 cta:
   domain: null
   bucket: null
