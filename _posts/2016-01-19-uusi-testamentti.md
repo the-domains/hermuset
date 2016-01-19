@@ -1,31 +1,28 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: Kertomus Jeesuksesta ja ensimmäisen vuosisadan kristityistä
-datePublished: '2016-01-19T20:42:33.732Z'
-dateModified: '2016-01-19T20:42:16.023Z'
+datePublished: '2016-01-19T20:52:56.478Z'
+dateModified: '2016-01-19T20:52:14.084Z'
 title: Uusi testamentti
 author: []
+sourcePath: _posts/2016-01-19-uusi-testamentti.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-19-uusi-testamentti.md
-published: true
-_type: Blurb
+url: uusi-testamentti/index.html
+_type: Article
 
 ---
 # Uusi testamentti
-
-## Kertomus Jeesuksesta ja ensimmäisen vuosisadan kristityistä
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43def64a-8cc1-4335-82a7-6e239c9a15c1.jpg)
 
 _Kertomus Jeesuksesta ja ensimmäisen vuosisadan kristityistä haastaa maailmankuvasi radikaalilla tavalla._
 
