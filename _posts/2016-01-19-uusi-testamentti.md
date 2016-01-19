@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Kertomus Jeesuksesta ja ensimmäisen vuosisadan kristityistä
-datePublished: '2016-01-19T20:55:46.743Z'
-dateModified: '2016-01-19T20:55:26.679Z'
+datePublished: '2016-01-19T20:59:47.418Z'
+dateModified: '2016-01-19T20:59:44.521Z'
 title: Uusi testamentti
 author: []
 sourcePath: _posts/2016-01-19-uusi-testamentti.md
@@ -25,7 +25,6 @@ _type: Article
 # Uusi testamentti
 
 _Kertomus Jeesuksesta ja ensimmäisen vuosisadan kristityistä haastaa maailmankuvasi radikaalilla tavalla._
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5722b722-0b3b-4892-9e01-735954c4dac1.jpg)
 
 ## Johdanto
 
