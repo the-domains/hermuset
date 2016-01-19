@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T21:42:19.435Z'
-dateModified: '2016-01-19T21:42:12.316Z'
+datePublished: '2016-01-19T21:48:48.518Z'
+dateModified: '2016-01-19T21:47:41.552Z'
 title: 'Maailmankuva: Haasta käsityksesi maailmasta'
 author: []
 sourcePath: _posts/2016-01-19-maailmankuva-haasta-kasityksesi-maailmasta.md
@@ -23,13 +23,9 @@ _type: Article
 
 ---
 # Maailmankuva: Haasta käsityksesi maailmasta
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8e22f99-5858-4d0c-a6d0-9edf5c56ef60.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/06ba49c9-582d-4661-a868-711ee87476f6.jpg)
 
 > **Maailmankuva** = Maailmaa koskevien käsitysten ja uskomusten rakennelma, jonka kautta yksilö tai ryhmä tulkitsee maailmaa ja on vuorovaikutuksessa sen kanssa.
-
-Jokaisella meillä on maailmankuva. Aivoissamme on jonkinlainen rakennelma, joka auttaa meitä ymmärtämään elämää ja ympäristöämme.
-
-Yllä oleva lyhyt ja yksinkertainen maailmankuvan määritelmä kertoo meille ainakin kolme asiaa:
 
 **1\. Maailmankuva on rakennelma**
 
