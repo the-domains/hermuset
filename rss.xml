@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Blogi]]></title>
+        <description><![CDATA[Blogi]]></description>
+        <link>https://thegrid.ai/hermuset/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 19 Jan 2016 20:52:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hermuset/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Uusi testamentti]]></title>
+            <description><![CDATA[<article><h1>Uusi testamentti</h1><h2>Johdanto</h2><p>Kertomus Jeesuksesta ja ensimmäisen vuosisadan kristityistä haastaa maailmankuvasi radikaalilla tavalla.</p></article>]]></description>
+            <link>https://thegrid.ai/hermuset/uusi-testamentti/index.html</link>
+            <guid isPermaLink="false">eb398623-1e1e-47e9-ac2e-f13c0ed825cf</guid>
+            <pubDate>Tue, 19 Jan 2016 20:52:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
