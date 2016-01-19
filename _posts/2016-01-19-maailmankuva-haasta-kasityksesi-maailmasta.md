@@ -6,24 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T21:40:36.763Z'
-dateModified: '2016-01-19T21:40:28.888Z'
+datePublished: '2016-01-19T21:42:19.093Z'
+dateModified: '2016-01-19T21:42:12.316Z'
 title: 'Maailmankuva: Haasta käsityksesi maailmasta'
 author: []
+sourcePath: _posts/2016-01-19-maailmankuva-haasta-kasityksesi-maailmasta.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-19-maailmankuva-haasta-kasityksesi-maailmasta.md
-published: true
 url: maailmankuva-haasta-kasityksesi-maailmasta/index.html
 _type: Article
 
 ---
 # Maailmankuva: Haasta käsityksesi maailmasta
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1eee03fae1462b7d100c8262de62df1e757e59b4.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8e22f99-5858-4d0c-a6d0-9edf5c56ef60.jpg)
 
 > **Maailmankuva** = Maailmaa koskevien käsitysten ja uskomusten rakennelma, jonka kautta yksilö tai ryhmä tulkitsee maailmaa ja on vuorovaikutuksessa sen kanssa.
 
