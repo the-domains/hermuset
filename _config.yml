@@ -1,7 +1,7 @@
 name: Hermuset
 favicon: null
-layout_spectrum: 0.6517622221726924
-typography_spectrum: 0.6376855517737567
+layout_spectrum: 0.65009
+typography_spectrum: 0.68795
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.5093415861483663
-  lightness: 0.3180040083825588
-  saturation: 0.8311117761768401
-  rhythmicContrast: 0.7874430704396218
+  brandStrength: 0
+  lightness: 0.1875
+  saturation: 0.8125
+  rhythmicContrast: 0.75
 purpose: []
