@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Kertomus Jeesuksesta ja ensimmäisen vuosisadan kristityistä
-datePublished: '2016-01-19T20:55:46.657Z'
+datePublished: '2016-01-19T20:55:46.743Z'
 dateModified: '2016-01-19T20:55:26.679Z'
 title: Uusi testamentti
 author: []
