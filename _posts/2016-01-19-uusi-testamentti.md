@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Kertomus Jeesuksesta ja ensimmäisen vuosisadan kristityistä
-datePublished: '2016-01-19T21:30:23.962Z'
+datePublished: '2016-01-19T21:30:23.975Z'
 dateModified: '2016-01-19T21:30:16.318Z'
 title: "Maailmankuva II:\_Uusi testamentti"
 author: []
