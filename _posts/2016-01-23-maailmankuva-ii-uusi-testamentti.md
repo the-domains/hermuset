@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: 'Israel on pieni maa-alue. Sen pohjoisen ja eteläisen rajan erottaa toisistaan muutama sata kilometriä, ja se rajoittuu kapealle maakaistaleelle Välimeren ja Jordanin välissä. Tämän vaatimattoman kokoisen maa-alueen historiallinen merkitys on kuitenkin saavuttanut kokoaan huomattavasti suuremmat mittasuhteet.  Imperiumit ovat taistelleet siitä. Viimeisen neljän tuhannen vuoden aikana armeijat ovat marssineet sen halki keskimäärin 44 vuoden välein, valloittamaan sitä, pelastamaan sitä miehittäjiltä, käyttääkseen sitä neutraalina taistelukenttänä tai kulkureittinä toiselle sotatantereelle. Sodat ja taistelut ovat jättäneet jälkensä tuohon maahan, joka kuitenkin edelleen ”tulvii maitoa ja hunajaa”.'
-datePublished: '2016-01-23T05:57:31.234Z'
-dateModified: '2016-01-23T05:57:27.165Z'
+description: ''
+datePublished: '2016-01-23T05:59:22.234Z'
+dateModified: '2016-01-23T05:59:17.357Z'
 title: 'Maailmankuva II: Uusi testamentti'
 author: []
 sourcePath: _posts/2016-01-23-maailmankuva-ii-uusi-testamentti.md
