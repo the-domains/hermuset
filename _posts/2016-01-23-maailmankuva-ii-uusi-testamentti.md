@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Maailman pienin pyhä kirja
-datePublished: '2016-01-23T04:56:38.623Z'
-dateModified: '2016-01-23T04:50:22.115Z'
+datePublished: '2016-01-23T05:03:45.276Z'
+dateModified: '2016-01-23T05:03:40.210Z'
 title: 'Maailmankuva II: Uusi testamentti'
 author: []
 sourcePath: _posts/2016-01-23-maailmankuva-ii-uusi-testamentti.md
@@ -73,5 +73,9 @@ Silmillämme on myös länsimaisen maailmankuvamme mukanaan tuomat linssit, jotk
 Ensimmäinen tehtävämme on määritellä Uuden testamentin historiallinen konteksti. Aloitamme **ensimmäisen vuosisadan juutalaisuudesta**, jonka helmoissa kristinusko sai alkunsa ja **ensimmäisen vuosisadan kristinuskosta**, joka toimi kontekstina Paavalille ja niille, jotka muistelivat ja kirjoittivat Jeesuksesta.
 
 Miksi? Seuraavan tekstin esimerkki havainnollistaa, miksi meidän on riisuttava maailmankuvamme mukanaan tuomat linssit. Tarkastelemme seuraavaksi länsimaisen kristillisen kulttuurin tärkeää symbolia: jouluevankeliumia.
+
+Maailmankuva III: Jouluevankeliumi
+
+_Henri_
 
 [0]: http://www.helsinki.fi/teol/pro/emo/tarkastelutapoja/metodit1.html
