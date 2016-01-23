@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Haasta käsityksesi maailmasta
-datePublished: '2016-01-23T05:08:07.403Z'
-dateModified: '2016-01-23T05:08:02.995Z'
+datePublished: '2016-01-23T05:11:09.215Z'
+dateModified: '2016-01-23T05:11:06.315Z'
 title: 'Maailmankuva: Haasta käsityksesi maailmasta'
 author: []
 sourcePath: _posts/2016-01-23-maailmankuva-haasta-kasityksesi-maailmasta.md
@@ -26,7 +26,7 @@ _type: Article
 
 ## Maailmankuva-kirjoitussarjan ensimmäinen osa
 
-**Maailmankuva ******= Maailmaa koskevien käsitysten ja uskomusten rakennelma, jonka kautta yksilö tai ryhmä tulkitsee maailmaa ja on vuorovaikutuksessa sen kanssa.
+> **Maailmankuva ******= Maailmaa koskevien käsitysten ja uskomusten rakennelma, jonka kautta yksilö tai ryhmä tulkitsee maailmaa ja on vuorovaikutuksessa sen kanssa.
 
 Maailmankuva määrittää sen, miten koet maailman ympärilläsi. 
 
