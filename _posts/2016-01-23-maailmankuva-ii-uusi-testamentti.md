@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Uusi testamentti on muovannut kristittyjen maailmankuvaa perustavanlaatuisella tavalla. Miten sitä tulisi lukea?
-datePublished: '2016-01-23T05:54:24.830Z'
+datePublished: '2016-01-23T05:54:24.833Z'
 dateModified: '2016-01-23T05:54:20.842Z'
 title: 'Maailmankuva II: Uusi testamentti'
 author: []
