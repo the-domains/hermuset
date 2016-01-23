@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-23T05:50:23.697Z'
-dateModified: '2016-01-23T05:50:19.622Z'
+datePublished: '2016-01-23T05:51:56.914Z'
+dateModified: '2016-01-23T05:51:49.313Z'
 title: 'Maailmankuva II: Uusi testamentti'
 author: []
 sourcePath: _posts/2016-01-23-maailmankuva-ii-uusi-testamentti.md
@@ -76,6 +76,7 @@ Miksi? Seuraavan tekstin esimerkki havainnollistaa, miksi meidän on riisuttava 
 
 _Henri_
 
-Maailmankuva III: Jouluevankeliumi (Tulossa)
+[Maailmankuva III: Jouluevankeliumi][1]
 
 [0]: http://www.helsinki.fi/teol/pro/emo/tarkastelutapoja/metodit1.html
+[1]: https://thegrid.ai/hermuset/maailmankuva-iii-jouluevankeliumi/
