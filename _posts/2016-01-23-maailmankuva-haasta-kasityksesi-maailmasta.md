@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Haasta käsityksesi maailmasta
-datePublished: '2016-01-23T05:13:48.524Z'
-dateModified: '2016-01-23T05:13:37.145Z'
+datePublished: '2016-01-23T05:24:33.898Z'
+dateModified: '2016-01-23T05:24:30.582Z'
 title: 'Maailmankuva: Haasta käsityksesi maailmasta'
 author: []
 sourcePath: _posts/2016-01-23-maailmankuva-haasta-kasityksesi-maailmasta.md
@@ -105,8 +105,6 @@ B) **Kommunikoida** oppimani tässä blogissa julkaistavan Maailmankuva-kirjoitu
 
 N. T. Wrightin merkittävä elämäntyö Uuden testamentin teologian parissa ja hänen massiivinen projektinsa _Christian Origins and the Question of God _kristinuskon synnystä ja kristinuskon ensimmäisestä vuosisadasta toimii Maailmankuva-kirjoitussarjan selkärankana.
 
-_Henri_
-
 **Christian Origins and the Question of God - N. T. Wright**
 
 The New Testament and the People of God  
@@ -119,4 +117,11 @@ Paul and the Faithfulness of God
 Jesus Through Middle Eastern Eyes - Kenneth E. Bailey  
 Paul Through Mediterranean Eyes - Kenneth E. Bailey
 
+## Seuraava kirjoitus:
+
+[Maailmankuva II: Uusi testamentti][1]
+
+_Henri_
+
 [0]: https://fi.wikipedia.org/wiki/Aurinkolasit
+[1]: https://thegrid.ai/hermuset/maailmankuva-ii-uusi-testamentti/
