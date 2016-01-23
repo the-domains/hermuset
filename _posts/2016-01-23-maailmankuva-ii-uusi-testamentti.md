@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-23T05:51:56.923Z'
+datePublished: '2016-01-23T05:51:56.979Z'
 dateModified: '2016-01-23T05:51:49.313Z'
 title: 'Maailmankuva II: Uusi testamentti'
 author: []
