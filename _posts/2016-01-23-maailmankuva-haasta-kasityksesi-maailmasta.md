@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Haasta käsityksesi maailmasta
-datePublished: '2016-01-23T05:24:34.008Z'
+datePublished: '2016-01-23T05:24:34.060Z'
 dateModified: '2016-01-23T05:24:30.582Z'
 title: 'Maailmankuva: Haasta käsityksesi maailmasta'
 author: []
