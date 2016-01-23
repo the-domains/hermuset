@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Haasta käsityksesi maailmasta
-datePublished: '2016-01-23T05:04:14.659Z'
-dateModified: '2016-01-23T05:04:11.117Z'
+datePublished: '2016-01-23T05:08:07.284Z'
+dateModified: '2016-01-23T05:08:02.995Z'
 title: 'Maailmankuva: Haasta käsityksesi maailmasta'
 author: []
 sourcePath: _posts/2016-01-23-maailmankuva-haasta-kasityksesi-maailmasta.md
@@ -26,7 +26,7 @@ _type: Article
 
 ## Maailmankuva-kirjoitussarjan ensimmäinen osa
 
-> **Maailmankuva ******= Maailmaa koskevien käsitysten ja uskomusten rakennelma, jonka kautta yksilö tai ryhmä tulkitsee maailmaa ja on vuorovaikutuksessa sen kanssa.
+**Maailmankuva ******= Maailmaa koskevien käsitysten ja uskomusten rakennelma, jonka kautta yksilö tai ryhmä tulkitsee maailmaa ja on vuorovaikutuksessa sen kanssa.
 
 Maailmankuva määrittää sen, miten koet maailman ympärilläsi. 
 
@@ -73,9 +73,7 @@ Ajatellaan näennäisen yksinkertaista kristillisen maailmankuvan väittämää:
 
 Toinen havainnollistava esimerkki löytyy omasta ansioluettelostani:
 
-> 2009-2010 
-> 
-> Elintarviketyöntekijä, elintarviketuotantolinjan kriittisen työvaiheen valvoja, 3-vuorotyö
+**2009-2010** Elintarviketyöntekijä, elintarviketuotantolinjan kriittisen työvaiheen valvoja, 3-vuorotyö
 
 Tämä CV:n ote ei todennäköisesti tarkoita sinulle mitään erityistä, jos et tunne minua tai tarinaani. Ystävilleni, perheenjäsenilleni ja niille, jotka ovat kuulleet tarinoitani hapankorppuleipomosta, se todennäköisesti saa aikaan huvittuneita naurunpyrskähdyksiä ja/tai muistelua vuosista, jotka muuttivat elämääni radikaalisti. Ansioluetteloon sopivalla tavalla esitetty fakta saa paljon laajemman ja paremmin todellisuutta vastaavan merkityksen, kun sitä ympäröivä narratiivi on tiedossa.
 
