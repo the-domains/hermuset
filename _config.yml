@@ -22,7 +22,7 @@ color:
     - '#cacaca'
     - '#838383'
     - '#4f4f4f'
-  brandStrength: 0.1875
+  brandStrength: 0.5
   lightness: 0.625
   saturation: 0.625
   rhythmicContrast: 0.75
