@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Harhakuvia
-datePublished: '2016-01-23T05:44:55.070Z'
-dateModified: '2016-01-23T05:44:42.329Z'
+datePublished: '2016-01-23T05:47:47.113Z'
+dateModified: '2016-01-23T05:47:37.136Z'
 title: 'Maailmankuva III: Jouluevankeliumi'
 author: []
+sourcePath: _posts/2016-01-23-maailmankuva-iii-jouluevankeliumi.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-23-maailmankuva-iii-jouluevankeliumi.md
-published: true
 url: maailmankuva-iii-jouluevankeliumi/index.html
 _type: Article
 
