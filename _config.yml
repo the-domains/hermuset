@@ -1,7 +1,7 @@
 name: Hermuset
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.58124
+layout_spectrum: 0.0737
+typography_spectrum: 0
 title: Blogi
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#838383'
     - '#4f4f4f'
   brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.3125
+  lightness: 0.6875
+  saturation: 0.625
   rhythmicContrast: 0.75
 purpose: []
