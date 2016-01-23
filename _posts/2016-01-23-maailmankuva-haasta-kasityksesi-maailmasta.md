@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Haasta käsityksesi maailmasta
-datePublished: '2016-01-23T05:11:09.298Z'
-dateModified: '2016-01-23T05:11:06.315Z'
+datePublished: '2016-01-23T05:13:48.030Z'
+dateModified: '2016-01-23T05:13:37.145Z'
 title: 'Maailmankuva: Haasta käsityksesi maailmasta'
 author: []
 sourcePath: _posts/2016-01-23-maailmankuva-haasta-kasityksesi-maailmasta.md
@@ -63,7 +63,13 @@ N.T. Wright esittää kirjassaan The New Testament and the People of God maailma
 3\. Symbolit  
 4\. Käytännöt
 
-**Kertomukset** ovat maailmankuvan luonteenomaisin ilmenemismuoto. Ne tarjoavat syvemmän ymmärryksen kuin irralliset lausahdukset tai havainnot maailmasta. **Vastaukset **ovat vastauksia ihmisen perimmäisiin kysymyksiin: Keitä me olemme? Missä me olemme? Mikä on vialla? Mikä on ratkaisu? Kaikki kulttuurit omaavat uskomuksia, joilla pyritään tarjoavat vastauksia näihin kysymyksiin, jotka koskettavat identiteettiä, ympäristöä, pahuutta ja toivoa. Kertomukset ja vastaukset muodostavat kulttuuriin **symboleja. **Kuudes päivä joulukuuta****lähes puolet kaikista suomalaisista kokoontuu television ääreen seuraamaan Linnan juhlia. Juhlasta on muodostunut vahva itsenäisyyden symboli. **Käytännöt **ovat ihmisen tapa olla maailmassa. Käytännöt****usein paljastavat yksilön maailmankuvan todellisen muodon, varsinkin silloin kun toiminnasta on tullut automaattista ja itsestäänselvää.  Elämäntapaan ja päämääriin liittyvät valinnat ilmentävät maailmankuvaa: ansaitsenko rahaa, perustanko perheen, vaikutanko yhteiskuntaan, kehitänkö itseäni?
+**Kertomukset** ovat maailmankuvan luonteenomaisin ilmenemismuoto. Ne tarjoavat syvemmän ymmärryksen kuin irralliset lausahdukset tai havainnot maailmasta. 
+
+**Vastaukset **ovat vastauksia ihmisen perimmäisiin kysymyksiin: Keitä me olemme? Missä me olemme? Mikä on vialla? Mikä on ratkaisu? Kaikki kulttuurit omaavat uskomuksia, joilla pyritään tarjoavat vastauksia näihin kysymyksiin, jotka koskettavat identiteettiä, ympäristöä, pahuutta ja toivoa. 
+
+Kertomukset ja vastaukset muodostavat kulttuuriin **symboleja. **Kuudes päivä joulukuuta****lähes puolet kaikista suomalaisista kokoontuu television ääreen seuraamaan Linnan juhlia. Juhlasta on muodostunut vahva itsenäisyyden symboli. 
+
+**Käytännöt **ovat ihmisen tapa olla maailmassa. Käytännöt****usein paljastavat yksilön maailmankuvan todellisen muodon, varsinkin silloin kun toiminnasta on tullut automaattista ja itsestäänselvää.  Elämäntapaan ja päämääriin liittyvät valinnat ilmentävät maailmankuvaa: ansaitsenko rahaa, perustanko perheen, vaikutanko yhteiskuntaan, kehitänkö itseäni?
 
 ## Kertomuksista
 
