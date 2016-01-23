@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Maailman pienin pyhä kirja
-datePublished: '2016-01-23T05:08:33.745Z'
-dateModified: '2016-01-23T05:08:30.491Z'
+datePublished: '2016-01-23T05:16:37.271Z'
+dateModified: '2016-01-23T05:16:33.104Z'
 title: 'Maailmankuva II: Uusi testamentti'
 author: []
 sourcePath: _posts/2016-01-23-maailmankuva-ii-uusi-testamentti.md
@@ -74,8 +74,8 @@ Ensimmäinen tehtävämme on määritellä Uuden testamentin historiallinen kont
 
 Miksi? Seuraavan tekstin esimerkki havainnollistaa, miksi meidän on riisuttava maailmankuvamme mukanaan tuomat linssit. Tarkastelemme seuraavaksi länsimaisen kristillisen kulttuurin tärkeää symbolia: jouluevankeliumia.
 
-Maailmankuva III: Jouluevankeliumi
-
 _Henri_
+
+Maailmankuva III: Jouluevankeliumi (Tulossa)
 
 [0]: http://www.helsinki.fi/teol/pro/emo/tarkastelutapoja/metodit1.html
