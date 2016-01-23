@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Maailman pienin pyhä kirja
-datePublished: '2016-01-23T05:03:45.504Z'
-dateModified: '2016-01-23T05:03:40.210Z'
+datePublished: '2016-01-23T05:08:33.722Z'
+dateModified: '2016-01-23T05:08:30.491Z'
 title: 'Maailmankuva II: Uusi testamentti'
 author: []
 sourcePath: _posts/2016-01-23-maailmankuva-ii-uusi-testamentti.md
