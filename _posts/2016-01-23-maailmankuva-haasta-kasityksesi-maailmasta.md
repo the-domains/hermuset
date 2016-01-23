@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Haasta käsityksesi maailmasta
-datePublished: '2016-01-23T04:32:08.553Z'
-dateModified: '2016-01-23T04:28:23.892Z'
+datePublished: '2016-01-23T04:44:34.178Z'
+dateModified: '2016-01-23T04:41:55.058Z'
 title: 'Maailmankuva: Haasta käsityksesi maailmasta'
 author: []
+sourcePath: _posts/2016-01-23-maailmankuva-haasta-kasityksesi-maailmasta.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-23-maailmankuva-haasta-kasityksesi-maailmasta.md
-published: true
 url: maailmankuva-haasta-kasityksesi-maailmasta/index.html
 _type: Article
 
