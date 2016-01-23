@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Haasta käsityksesi maailmasta
-datePublished: '2016-01-23T04:50:46.457Z'
-dateModified: '2016-01-23T04:50:43.264Z'
+datePublished: '2016-01-23T05:04:14.101Z'
+dateModified: '2016-01-23T05:04:11.117Z'
 title: 'Maailmankuva: Haasta käsityksesi maailmasta'
 author: []
 sourcePath: _posts/2016-01-23-maailmankuva-haasta-kasityksesi-maailmasta.md
@@ -100,6 +100,8 @@ A) **Haastaa** nykyinen maailmankuvani Uuden testamentin kertomuksella Jeesukses
 B) **Kommunikoida** oppimani tässä blogissa julkaistavan Maailmankuva-kirjoitussarjan kautta
 
 N. T. Wrightin merkittävä elämäntyö Uuden testamentin teologian parissa ja hänen massiivinen projektinsa _Christian Origins and the Question of God _kristinuskon synnystä ja kristinuskon ensimmäisestä vuosisadasta toimii Maailmankuva-kirjoitussarjan selkärankana.
+
+_Henri_
 
 **Christian Origins and the Question of God - N. T. Wright**
 
